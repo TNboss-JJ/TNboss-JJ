@@ -25,7 +25,7 @@
 The brand and design infrastructure ships under Apache 2.0 — so educators, partners, and downstream builders can use it freely. (TaleNest brand assets remain trademarked; see `TRADEMARK.md`.)
 
 - 🎨 **[talenest-brand-tokens](https://github.com/TNboss-JJ/talenest-brand-tokens)** — Design tokens, color palette, typography, WCAG 2.2 AA accessibility. Apache 2.0 (with patent grant + retaliation)
-- 🔬 **Patent (Korea)**: P-26-0105 · PCT international filing planned 2026-12
+- 🔬 **IP defense**: trademark, copyright, and patent filings in progress (KR + PCT planned)
 
 ## Stack
 
