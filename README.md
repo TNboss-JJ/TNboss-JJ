@@ -18,7 +18,7 @@
 - 🧸 **49 emotions × 8 characters × 7 EQ Pillars** — aligned with CASEL 5, inspired by RULER (Yale) and Goleman's EQ model
 - 🔭 **Observation, not assessment** — TaleNest structures what already happens in classrooms and therapy rooms. It is **not** a clinical decision-support tool, and **not** a medical device
 - 🏥 **6 verticals** — developmental rehabilitation, kindergartens, speech therapy, daycare, learning centers, home use
-- 🇰🇷 **Korea**: public launch 2026-05-25 (Cohort 2) · 🌏 **Global**: DPG submission Q1 2027
+- 🇰🇷 **Korea**: public launch 2026-05-25 (Cohort 2) · 🌏 **Global**: DPG track
 
 ## Open building
 
@@ -35,9 +35,9 @@ Clean Architecture + Screaming Architecture · 49+ feature clusters · Korean + 
 ## Currently focused on
 
 - 🌏 **DPG (Digital Public Goods)** submission track — 9-indicator readiness, English documentation
-- 🤝 **UNICEF Venture Fund** + **KOICA CTS** preparation (via Philippine subsidiary)
-- 🧠 Curriculum depth: full 49-emotion catalog rollout (4 active → 49 across 2026-2027)
-- 🔐 9-tier IP defense — SW + character copyright, KIPRIS trademarks, PCT, content forensics
+- 🤝 **UNICEF Venture Fund** and **KOICA** tracks
+- 🧠 Curriculum depth: full 49-emotion catalog rolling out across 2026-2027
+- 🔐 Comprehensive IP defense — SW + character copyright, trademark, and content forensics
 
 ## Reach me
 
